@@ -1,0 +1,8 @@
+{
+  "name": "SAM DEALS AND SERVICES",
+  "description": "Your trusted electronics plug in Kenya. Hot deals on tested phones, laptops, and accessories with direct WhatsApp ordering and countrywide delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
